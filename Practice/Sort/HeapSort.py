@@ -1,5 +1,9 @@
 # -*- coding:utf-8 -*-
+<<<<<<< HEAD
+# 本代码为建立大根堆
+=======
 # 本代码为建立小根堆
+>>>>>>> b213038ddb736381f05b86a5cde68800622ca9ec
 
 def HeapAdjust(heap,length,i):
     min = i
@@ -13,7 +17,11 @@ def HeapAdjust(heap,length,i):
 
 
 def HeapSort(heap):
+<<<<<<< HEAD
+    # 构建大根堆
+=======
     # 构建小根堆
+>>>>>>> b213038ddb736381f05b86a5cde68800622ca9ec
     for i in range(len(heap)//2-1,-1,-1):
         HeapAdjust(heap,len(heap),i)
     # 将根节点取出与最后一位做对调，对前面剩余节点继续进行对调整
