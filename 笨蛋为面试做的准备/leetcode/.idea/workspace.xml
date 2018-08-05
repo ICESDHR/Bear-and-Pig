@@ -21,12 +21,15 @@
     <SUITE FILE_PATH="coverage/leetcode$564_.coverage" NAME="564.寻找最近的回文数 Coverage Results" MODIFIED="1533175233110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pinduoduo.coverage" NAME="pinduoduo Coverage Results" MODIFIED="1532258567737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1532399644798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
+    <SUITE FILE_PATH="coverage/leetcode$74__.coverage" NAME="74. 搜索二维矩阵 Coverage Results" MODIFIED="1533436962832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$70_.coverage" NAME="70.爬楼梯 Coverage Results" MODIFIED="1533386413581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pinduoduodiyiti.coverage" NAME="pinduoduodiyiti Coverage Results" MODIFIED="1532263416298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1532396725805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
     <SUITE FILE_PATH="coverage/leetcode$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1532399907619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
+    <SUITE FILE_PATH="coverage/leetcode$88__.coverage" NAME="88. 合并两个有序数组 Coverage Results" MODIFIED="1533434772588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$radix_sort.coverage" NAME="radix_sort Coverage Results" MODIFIED="1532410597894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
     <SUITE FILE_PATH="coverage/leetcode$2_addTwoNumbers.coverage" NAME="2.addTwoNumbers Coverage Results" MODIFIED="1531829940972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$878___N_.coverage" NAME="878. 第 N 个神奇数字 Coverage Results" MODIFIED="1533450915240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$7_reverse.coverage" NAME="7.reverse Coverage Results" MODIFIED="1532008377883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$sequential_search.coverage" NAME="sequential_search Coverage Results" MODIFIED="1532428515801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/search" />
     <SUITE FILE_PATH="coverage/leetcode$5_longestPalindrome.coverage" NAME="5.longestPalindrome Coverage Results" MODIFIED="1532008121543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -38,12 +41,21 @@
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1533273783543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="23.合并k个排序链表.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/23.合并k个排序链表.py">
+    <leaf>
+      <file leaf-file-name="21. 合并两个有序链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/链表/21. 合并两个有序链表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="702">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="878. 第 N 个神奇数字.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/878. 第 N 个神奇数字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -75,9 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.twoSum.py" />
-        <option value="$PROJECT_DIR$/2.addTwoNumbers.py" />
-        <option value="$PROJECT_DIR$/3.lengthOfLongestSubstring.py" />
         <option value="$PROJECT_DIR$/4.findMedianSortedArrays.py" />
         <option value="$PROJECT_DIR$/pinduoduo.py" />
         <option value="$PROJECT_DIR$/pinduoduodiyiti.py" />
@@ -122,6 +131,13 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/70.爬楼梯.py" />
         <option value="$PROJECT_DIR$/23.合并k个排序链表.py" />
+        <option value="$PROJECT_DIR$/21. 合并两个有序链表.py" />
+        <option value="$PROJECT_DIR$/Algorithms and Data Structures/链表/21. 合并两个有序链表.py" />
+        <option value="$PROJECT_DIR$/Algorithms and Data Structures/88. 合并两个有序数组.py" />
+        <option value="$PROJECT_DIR$/88. 合并两个有序数组.py" />
+        <option value="$PROJECT_DIR$/Algorithms and Data Structures/链表/148. 排序链表.py" />
+        <option value="$PROJECT_DIR$/74. 搜索二维矩阵.py" />
+        <option value="$PROJECT_DIR$/878. 第 N 个神奇数字.py" />
       </list>
     </option>
   </component>
@@ -141,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +197,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,6 +210,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Algorithms and Data Structures/链表" />
       <recent name="$PROJECT_DIR$/Algorithms and Data Structures" />
       <recent name="$PROJECT_DIR$/二叉树" />
       <recent name="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
@@ -211,45 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.70.爬楼梯">
-    <configuration name="236.二叉树的公共祖先" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/236.二叉树的公共祖先.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="564.寻找最近的回文数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/564.寻找最近的回文数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.878. 第 N 个神奇数字">
     <configuration name="70.爬楼梯" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +248,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="74. 搜索二维矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,12 +256,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms and Data Structures/search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms and Data Structures/search/binary_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74. 搜索二维矩阵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="878. 第 N 个神奇数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/878. 第 N 个神奇数字.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="88. 合并两个有序数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/88. 合并两个有序数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,19 +325,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.binary_search" />
-      <item itemvalue="Python.564.寻找最近的回文数" />
-      <item itemvalue="Python.236.二叉树的公共祖先" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.70.爬楼梯" />
+      <item itemvalue="Python.88. 合并两个有序数组" />
+      <item itemvalue="Python.74. 搜索二维矩阵" />
+      <item itemvalue="Python.878. 第 N 个神奇数字" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.878. 第 N 个神奇数字" />
+        <item itemvalue="Python.74. 搜索二维矩阵" />
+        <item itemvalue="Python.88. 合并两个有序数组" />
         <item itemvalue="Python.70.爬楼梯" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.236.二叉树的公共祖先" />
-        <item itemvalue="Python.564.寻找最近的回文数" />
-        <item itemvalue="Python.binary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -344,11 +361,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20596206" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20596206" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32791328" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22603719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -372,27 +389,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="50" />
+      <option name="time" value="51" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="36" column="9" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/sort/insert_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.longestPalindrome.py" />
-    <entry file="file://$PROJECT_DIR$/7.reverse.py" />
-    <entry file="file://$PROJECT_DIR$/3.lengthOfLongestSubstring.py" />
     <entry file="file://$PROJECT_DIR$/4.findMedianSortedArrays.py" />
     <entry file="file://$PROJECT_DIR$/1.twoSum.py" />
     <entry file="file://$PROJECT_DIR$/2.addTwoNumbers.py" />
@@ -654,10 +654,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23.合并k个排序链表.py">
+    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/链表/23.合并k个排序链表.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/88. 合并两个有序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/链表/148. 排序链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/74. 搜索二维矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/链表/21. 合并两个有序链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/878. 第 N 个神奇数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
         </state>
       </provider>
     </entry>
