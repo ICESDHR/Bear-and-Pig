@@ -4,6 +4,7 @@ class ListNode:
         self.val = x
         self.next = None
 
+
 class Solution:
     def mergeKLists(self, lists):
         """
@@ -12,13 +13,13 @@ class Solution:
         """
         res = []
         for i in lists:
-            while i :
+            while i:
                 res.append(i.val)
-                i  = i.next
+                i = i.next
         if res == []:
             return []
         res.sort()
-        l =  ListNode(0)
+        l = ListNode(0)
         first = l
         while res:
             l.next = ListNode(res.pop(0))
@@ -50,5 +51,3 @@ class Solution:
             if item:
                 node.next = item
         return head.next
-
-

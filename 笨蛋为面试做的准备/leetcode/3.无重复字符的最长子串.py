@@ -10,6 +10,14 @@
 给定 "pwwkew" ，最长子串是 "wke" ，长度是3。请注意答案必须是一个子串，"pwke" 是 子序列  而不是子串。
 '''
 def lengthOfLongestSubstring(s):
+    '''
+    剑指offerP236 面试题48
+    思路：计算第i个字符和它上次出现在字符串中的位置的距离，记为d
+    1. if d<=f(i-1) 则说明第i个字符上次出现在f(i-1)对应的最长子字符串中令f(i)=d
+    2. if d>f(i-1) 此时第i个字符上次出现在f(i-1)对应的最长子字符串之前，令f(i)=f(i-1)+1
+    :param s:
+    :return:
+    '''
     slen = len(s)
     maxlen = 0
     curlen = 0
