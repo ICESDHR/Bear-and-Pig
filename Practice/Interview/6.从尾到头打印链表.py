@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 从尾到头打印链表
 class ListNode:
     def __init__(self, x):
         self.val = x

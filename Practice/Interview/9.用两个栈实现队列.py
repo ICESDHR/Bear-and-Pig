@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 用两个栈实现队列
 class Queue():
     def __init__(self):
         self.stack1 = []

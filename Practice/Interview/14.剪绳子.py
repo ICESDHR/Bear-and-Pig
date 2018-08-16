@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 from functools import reduce
 
-# 剪绳子，已知绳子长度，将其剪为若干段，求能剪出的最大长度之积
+# 已知绳子长度，将其剪为若干段，求能剪出的最大长度之积
 
 # 解法1：使用数学知识辅助，直接得到结果
 def CutRope1(n):
@@ -18,6 +18,8 @@ def CutRope1(n):
 # 解法2：使用动态规划
 def CutRope2(n):
 	ans = [0,1]
+	if n < 3:
+		return ans[n-1]
 	for i in range(2,n):
 		maxmium = 0
 		for j in range(i):
@@ -28,6 +30,8 @@ def CutRope2(n):
 	return ans[-1]
 
 if __name__ == '__main__':
-	n = 13
-	print(CutRope1(n))
-	print(CutRope2(n))
+	test = [1,2,3,4,5]
+	for n in test:
+		print('n =',n)
+		print(CutRope1(n),end='\t')
+		print(CutRope2(n))

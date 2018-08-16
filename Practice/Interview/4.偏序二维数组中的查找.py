@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# 偏序二维数组中的查找
 
 # 自己做的，很渣改进余地很大
 def Find1(target, array):

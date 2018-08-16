@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 矩形覆盖问题
 # TODO 反应不过来是Fibonacci问题
 def RectCover(number):
     count = [0,1,2]

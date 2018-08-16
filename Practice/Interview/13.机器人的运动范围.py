@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 机器人的运动范围
 # TODO 自己想了好久没想出来，写的是错的
 def movingCount(threshold, rows, cols):
     ans = []

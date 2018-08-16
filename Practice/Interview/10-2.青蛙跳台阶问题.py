@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 青蛙跳台阶问题
 # TODO 难点是发现这是一个Fibonacci问题
 def JumpFloor(number):
     count = [1,2]

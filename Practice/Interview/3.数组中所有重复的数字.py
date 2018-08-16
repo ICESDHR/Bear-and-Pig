@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# 查找数组中所有重复的数字
 
 # 不使用辅助数据结构判断重复数字
 def Dupilcate1(text):
@@ -60,7 +59,7 @@ def Dupilcate3(text):
             low = mid
     return 0,low
 
-def main():
+if __name__ == '__main__':
     tests = [[1,2,3,4,2,3,1,5],[1,2,3,4,5],[1,2,3,4,6,3,1,5],[]]
     for test in tests:
         flag,duplication1 = Dupilcate1(test.copy())     # python27中list不能使用copy
@@ -73,5 +72,3 @@ def main():
             print(duplication2)
             print(duplication3)
 
-if __name__ == '__main__':
-    main()

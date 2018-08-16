@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-# 根据先序遍历和中序遍历重建二叉树
 class TreeNode:
     def __init__(self, x):
         self.val = x
