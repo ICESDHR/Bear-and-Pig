@@ -27,8 +27,25 @@ def quick_sort2(lists):
     return quick_sort2(lists[:pivot]) + [lists[pivot]] + quick_sort2(lists[pivot + 1:])
 
 
+def quik_sort3(L, left, right):
+    if left <= right:
+        key = L[left]
+        i = left
+        j = right
+        while i < j:
+            while i < j and key <= L[j]:
+                j -= 1
+            L[i] = L[j]
+            while i < j and L[i] <= key:
+                i += 1
+            L[j] = L[i]
+        L[i] = key
+        quik_sort3(L, left, i - 1)
+        quik_sort3(L, i + 1, right)
+
 if __name__ == "__main__":
+    # lists = [9, 8, 7, 6, 5]
+    # print(quick_sort1(lists))
     lists = [9, 8, 7, 6, 5]
-    print(quick_sort1(lists))
-    lists = [9, 8, 7, 6, 5]
-    print(quick_sort2(lists))
+    quik_sort3(lists, 0, 4)
+    print(lists)
