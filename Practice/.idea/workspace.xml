@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74b1bf8b-f0f2-4d7c-8a63-1ca36293fc6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/21.调整整数组顺序使奇数位于偶数前面.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/22.链表中倒数第k个节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/23.链表中环的入口节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/24.反转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/25.合并两个排序的链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/26.树的子结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/27.二叉树的镜像.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/28.对称的二叉树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小熊为面试做的准备/小熊投递简历的工作岗位.md" beforeDir="false" afterPath="$PROJECT_DIR$/../小熊为面试做的准备/小熊投递简历的工作岗位.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../小熊为面试做的准备/数据分析面经.md" beforeDir="false" afterPath="$PROJECT_DIR$/../小熊为面试做的准备/数据分析面经.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../找工作要看的书/数据库课件/3.SQL语言.md" beforeDir="false" afterPath="$PROJECT_DIR$/../找工作要看的书/数据库课件/3.SQL语言.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +21,7 @@
     <SUITE FILE_PATH="coverage/Practice$17_1n.coverage" NAME="17.打印从1到最大的n位数 Coverage Results" MODIFIED="1534474959641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$3_.coverage" NAME="3.数组中所有重复的数字 Coverage Results" MODIFIED="1534383623756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$19_.coverage" NAME="19.正则表达式匹配 Coverage Results" MODIFIED="1534665445502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$1.coverage" NAME="1 Coverage Results" MODIFIED="1534843411818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$23_.coverage" NAME="23.链表中环的入口节点 Coverage Results" MODIFIED="1534767090894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview3.coverage" NAME="Interview3 Coverage Results" MODIFIED="1530980380640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview9.coverage" NAME="Interview9 Coverage Results" MODIFIED="1522505329122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
@@ -27,13 +29,16 @@
     <SUITE FILE_PATH="coverage/Practice$Interview6.coverage" NAME="Interview6 Coverage Results" MODIFIED="1522246745046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/Practice$21_.coverage" NAME="21.调整整数组顺序使奇数位于偶数前面 Coverage Results" MODIFIED="1534748074438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview10_2.coverage" NAME="Interview10-2 Coverage Results" MODIFIED="1522547869524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$27_.coverage" NAME="27.二叉树的镜像 Coverage Results" MODIFIED="1534995225748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1532934175581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/Practice$Inteview8.coverage" NAME="Inteview8 Coverage Results" MODIFIED="1522377117457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$TreeTraversal.coverage" NAME="TreeTraversal Coverage Results" MODIFIED="1533018429857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
     <SUITE FILE_PATH="coverage/Practice$Interview5.coverage" NAME="Interview5 Coverage Results" MODIFIED="1522244087725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$20_.coverage" NAME="20.表示数值的字符串 Coverage Results" MODIFIED="1534684389824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview11.coverage" NAME="Interview11 Coverage Results" MODIFIED="1532934182964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$25_.coverage" NAME="25.合并两个排序的链表 Coverage Results" MODIFIED="1534924272351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$22_k.coverage" NAME="22.链表中倒数第k个节点 Coverage Results" MODIFIED="1534764966321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$2.coverage" NAME="2 Coverage Results" MODIFIED="1534843789755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$SelectSort.coverage" NAME="SelectSort Coverage Results" MODIFIED="1521859065760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/Practice$Interview10.coverage" NAME="Interview10 Coverage Results" MODIFIED="1522506789140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$18_.coverage" NAME="18.删除排序链表的节点 Coverage Results" MODIFIED="1534575184069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
@@ -41,6 +46,8 @@
     <SUITE FILE_PATH="coverage/Practice$Interview7.coverage" NAME="Interview7 Coverage Results" MODIFIED="1522483926933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$18_2_.coverage" NAME="18-2.删除链表中的重复节点 Coverage Results" MODIFIED="1534575709747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview6__1_.coverage" NAME="Interview6 (1) Coverage Results" MODIFIED="1522286646938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$3.coverage" NAME="3 Coverage Results" MODIFIED="1534852801579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$26_.coverage" NAME="26.树的子结构 Coverage Results" MODIFIED="1534993818533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview13.coverage" NAME="Interview13 Coverage Results" MODIFIED="1534303081712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$17_2_.coverage" NAME="17-2.大数字符串相加 Coverage Results" MODIFIED="1534573034998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview12.coverage" NAME="Interview12 Coverage Results" MODIFIED="1530777948354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
@@ -51,6 +58,7 @@
     <SUITE FILE_PATH="coverage/Practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1534747511434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/Practice$.coverage" NAME="数值的整数次方 Coverage Results" MODIFIED="1534382700246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
     <SUITE FILE_PATH="coverage/Practice$Interview15.coverage" NAME="Interview15 Coverage Results" MODIFIED="1534340087958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
+    <SUITE FILE_PATH="coverage/Practice$24_.coverage" NAME="24.反转链表 Coverage Results" MODIFIED="1534838069481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Interview" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -100,35 +108,35 @@
     <session id="-1341372648">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="10" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="996" />
+          <entry key="Python Console" value="1467" />
           <entry key="dummy" value="147" />
-          <entry key="py" value="10789" />
+          <entry key="py" value="12404" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="147" />
-          <entry key="Python" value="11785" />
+          <entry key="Python" value="13871" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="62" />
+          <entry key="py" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="62" />
+          <entry key="Python" value="82" />
         </counts>
       </usages-collector>
     </session>
@@ -141,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sort/HeapSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="-243">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding>
                 <marker date="1533193181525" expanded="true" signature="78:319" ph="..." />
                 <marker date="1533193181525" expanded="true" signature="319:322" ph="..." />
@@ -152,12 +160,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interview/24.反转链表.py">
+        <entry file="file://$PROJECT_DIR$/Interview/28.对称的二叉树.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+            <state relative-caret-position="-98">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1534767188824" expanded="true" signature="130:138" ph="..." />
+                <marker date="1534995331692" expanded="true" signature="160:523" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,6 +176,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -178,13 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Interview3.py" />
-        <option value="$PROJECT_DIR$/Interview4.py" />
-        <option value="$PROJECT_DIR$/Sort/Interview6.py" />
-        <option value="$PROJECT_DIR$/Interview/Example.ipynb" />
-        <option value="$PROJECT_DIR$/Interview/Inteview8.py" />
-        <option value="$PROJECT_DIR$/Interview/Interview10.py" />
-        <option value="$PROJECT_DIR$/Interview/Interview11.py" />
         <option value="$PROJECT_DIR$/Interview/Interview12.py" />
         <option value="$PROJECT_DIR$/Sort/TreeTraversal.py" />
         <option value="$PROJECT_DIR$/Interview/Interview7.py" />
@@ -229,6 +231,13 @@
         <option value="$PROJECT_DIR$/Interview/22.链表中倒数第k个节点.py" />
         <option value="$PROJECT_DIR$/Interview/23.链表中环的入口节点.py" />
         <option value="$PROJECT_DIR$/Interview/24.反转链表.py" />
+        <option value="$PROJECT_DIR$/Interview/1.py" />
+        <option value="$PROJECT_DIR$/Interview/3.py" />
+        <option value="$PROJECT_DIR$/Interview/2.py" />
+        <option value="$PROJECT_DIR$/Interview/25.合并两个排序的链表.py" />
+        <option value="$PROJECT_DIR$/Interview/26.树的子结构.py" />
+        <option value="$PROJECT_DIR$/Interview/27.二叉树的镜像.py" />
+        <option value="$PROJECT_DIR$/Interview/28.对称的二叉树.py" />
       </list>
     </option>
   </component>
@@ -239,10 +248,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="788" />
-    <option name="y" value="381" />
-    <option name="width" value="1396" />
-    <option name="height" value="799" />
+    <option name="x" value="763" />
+    <option name="width" value="1386" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -281,6 +289,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,7 +316,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,8 +344,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.23.链表中环的入口节点">
-    <configuration name="18.删除排序链表的节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.27.二叉树的镜像">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +358,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/18.删除排序链表的节点.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +367,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20.表示数值的字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="25.合并两个排序的链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,7 +380,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/20.表示数值的字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/25.合并两个排序的链表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21.调整整数组顺序使奇数位于偶数前面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="26.树的子结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,7 +402,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/21.调整整数组顺序使奇数位于偶数前面.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/26.树的子结构.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +411,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="22.链表中倒数第k个节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="27.二叉树的镜像" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,7 +424,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/22.链表中倒数第k个节点.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/27.二叉树的镜像.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="23.链表中环的入口节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,29 +446,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/23.链表中环的入口节点.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,19 +456,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.20.表示数值的字符串" />
-      <item itemvalue="Python.21.调整整数组顺序使奇数位于偶数前面" />
-      <item itemvalue="Python.QuickSort" />
-      <item itemvalue="Python.22.链表中倒数第k个节点" />
-      <item itemvalue="Python.23.链表中环的入口节点" />
+      <item itemvalue="Python.25.合并两个排序的链表" />
+      <item itemvalue="Python.3" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.26.树的子结构" />
+      <item itemvalue="Python.27.二叉树的镜像" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.23.链表中环的入口节点" />
-        <item itemvalue="Python.22.链表中倒数第k个节点" />
-        <item itemvalue="Python.21.调整整数组顺序使奇数位于偶数前面" />
-        <item itemvalue="Python.QuickSort" />
-        <item itemvalue="Python.20.表示数值的字符串" />
+        <item itemvalue="Python.27.二叉树的镜像" />
+        <item itemvalue="Python.26.树的子结构" />
+        <item itemvalue="Python.25.合并两个排序的链表" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.2" />
       </list>
     </recent_temporary>
   </component>
@@ -506,8 +492,8 @@
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51415795" visible="true" weight="0.17009966" />
-      <window_info id="Structure" order="1" sideWeight="0.48584202" side_tool="true" visible="true" weight="0.17009966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51266766" visible="true" weight="0.17209302" />
+      <window_info id="Structure" order="1" sideWeight="0.48733234" side_tool="true" visible="true" weight="0.17209302" />
       <window_info id="Favorites" order="2" sideWeight="0.50584793" side_tool="true" weight="0.15824468" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -632,24 +618,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/BinarySearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sort/InsertSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/TreeTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -690,13 +662,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/9.用两个栈实现队列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Interview/7.重建二叉树(根据先序中序).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -815,17 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/HeapSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <marker date="1533193181525" expanded="true" signature="78:319" ph="..." />
-            <marker date="1533193181525" expanded="true" signature="319:322" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview/23.链表中环的入口节点.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -848,10 +802,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Interview/24.反转链表.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="486">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <marker date="1534767188824" expanded="true" signature="130:138" ph="..." />
+            <marker date="1534834210438" expanded="true" signature="314:499" ph="..." />
+            <marker date="1534834210438" expanded="true" signature="354:499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/25.合并两个排序的链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="46" selection-end-line="50" selection-end-column="24" />
+          <folding>
+            <marker date="1534925209267" expanded="true" signature="199:426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/26.树的子结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/BinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/7.重建二叉树(根据先序中序).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" selection-start-line="19" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/TreeTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="109" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <marker date="1533193181525" expanded="true" signature="78:319" ph="..." />
+            <marker date="1533193181525" expanded="true" signature="319:322" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/27.二叉树的镜像.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview/28.对称的二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1534995331692" expanded="true" signature="160:523" ph="..." />
           </folding>
         </state>
       </provider>
