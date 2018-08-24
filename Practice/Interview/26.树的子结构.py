@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+# 情况未考虑周全，16-21行代码为后修改的
 class BinaryTreeNode:
 	def __init__(self,value):
 		self.value = value
@@ -7,17 +8,21 @@ class BinaryTreeNode:
 		self.right = None
 
 def SubTree(tree1,tree2):
+	ans = False
 	if tree1 and tree2:
 		if tree1.value != tree2.value:
 			return SubTree(tree1.left,tree2) | SubTree(tree1.right,tree2)
 		else:
-			return SubTree(tree1.left,tree2.left) & SubTree(tree1.right,tree2.right)
-	elif tree2:
-		return False
-	return True
+			ans = True
+			if tree2.left:
+				ans = SubTree(tree1.left, tree2.left)
+			if tree2.right:
+				ans = ans & SubTree(tree1.right, tree2.right)
+			return ans | SubTree(tree1.left, tree2) | SubTree(tree1.right, tree2)
+	return ans
 
 def BuildTree1():
-	root = BinaryTreeNode(0)
+	root = BinaryTreeNode(1)
 	node1 = BinaryTreeNode(1)
 	node2 = BinaryTreeNode(2)
 	node3 = BinaryTreeNode(3)
