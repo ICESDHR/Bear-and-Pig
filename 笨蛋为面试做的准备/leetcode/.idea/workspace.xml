@@ -28,7 +28,7 @@
     <SUITE FILE_PATH="coverage/leetcode$70_.coverage" NAME="70.爬楼梯 Coverage Results" MODIFIED="1533386413581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$offer_14_.coverage" NAME="剑指offer 14 剪绳子 Coverage Results" MODIFIED="1535098025603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pinduoduodiyiti.coverage" NAME="pinduoduodiyiti Coverage Results" MODIFIED="1532263416298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1534818307863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
+    <SUITE FILE_PATH="coverage/leetcode$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1535289239177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
     <SUITE FILE_PATH="coverage/leetcode$shell_sort.coverage" NAME="shell_sort Coverage Results" MODIFIED="1532399907619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
     <SUITE FILE_PATH="coverage/leetcode$offer_15_1.coverage" NAME="剑指offer 15 二进制中1的个数 Coverage Results" MODIFIED="1535099170939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="网易1 Coverage Results" MODIFIED="1535166667652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笔试题" />
@@ -45,7 +45,7 @@
     <SUITE FILE_PATH="coverage/leetcode$bucket_sort.coverage" NAME="bucket_sort Coverage Results" MODIFIED="1532410529290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
     <SUITE FILE_PATH="coverage/leetcode$offer_13_.coverage" NAME="剑指offer 13 机器人的运动范围 Coverage Results" MODIFIED="1535081336665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$8_myAtoi.coverage" NAME="8.myAtoi Coverage Results" MODIFIED="1532181372181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="华为2 Coverage Results" MODIFIED="1534939080452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="华为2 Coverage Results" MODIFIED="1535286220659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笔试题" />
     <SUITE FILE_PATH="coverage/leetcode$offer_10_.coverage" NAME="剑指offer 10 斐波那契额数列 Coverage Results" MODIFIED="1535075777157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$pinduoduodisiti.coverage" NAME="pinduoduodisiti Coverage Results" MODIFIED="1532267700763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$offer_3_.coverage" NAME="剑指offer 3 数组中的重复数字 Coverage Results" MODIFIED="1535009754994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,7 +58,7 @@
       <file leaf-file-name="1111.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1111.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
+            <state>
               <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
             </state>
           </provider>
@@ -67,17 +67,26 @@
       <file leaf-file-name="头条？.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/头条？.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="702">
               <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="华为2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="华为2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/笔试题/华为2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="310">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quick_sort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -86,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/笔试题/华为3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -159,11 +168,9 @@
         <option value="$PROJECT_DIR$/网易2.py" />
         <option value="$PROJECT_DIR$/网易3.py" />
         <option value="$PROJECT_DIR$/网易1.py" />
-        <option value="$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py" />
         <option value="$PROJECT_DIR$/华为1.py" />
         <option value="$PROJECT_DIR$/华为3.py" />
         <option value="$PROJECT_DIR$/华为2.py" />
-        <option value="$PROJECT_DIR$/笔试题/华为2.py" />
         <option value="$PROJECT_DIR$/123.py" />
         <option value="$PROJECT_DIR$/442. 数组中重复的数据.py" />
         <option value="$PROJECT_DIR$/剑指offer 3 数组中的重复数字.py" />
@@ -178,6 +185,8 @@
         <option value="$PROJECT_DIR$/笔试题/网易1.py" />
         <option value="$PROJECT_DIR$/1111.py" />
         <option value="$PROJECT_DIR$/头条？.py" />
+        <option value="$PROJECT_DIR$/笔试题/华为2.py" />
+        <option value="$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py" />
       </list>
     </option>
   </component>
@@ -187,7 +196,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="835" />
@@ -197,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,7 +252,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.头条？">
+  <component name="RunManager" selected="Python.quick_sort">
     <configuration name="头条？" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,7 +340,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="剑指offer 14 剪绳子" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="华为2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,18 +348,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/笔试题" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer 14 剪绳子.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笔试题/华为2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="剑指offer 15 二进制中1的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,31 +367,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms and Data Structures/sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer 15 二进制中1的个数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.剑指offer 14 剪绳子" />
-      <item itemvalue="Python.剑指offer 15 二进制中1的个数" />
       <item itemvalue="Python.头条？" />
       <item itemvalue="Python.网易1" />
       <item itemvalue="Python.1111" />
+      <item itemvalue="Python.华为2" />
+      <item itemvalue="Python.quick_sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quick_sort" />
+        <item itemvalue="Python.华为2" />
         <item itemvalue="Python.头条？" />
         <item itemvalue="Python.1111" />
         <item itemvalue="Python.网易1" />
-        <item itemvalue="Python.剑指offer 15 二进制中1的个数" />
-        <item itemvalue="Python.剑指offer 14 剪绳子" />
       </list>
     </recent_temporary>
   </component>
@@ -406,11 +415,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" weight="0.20189703" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.20189703" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.20189703" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32655826" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25178826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553648" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -441,7 +450,7 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="65" />
+      <option name="time" value="66" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -571,20 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Practice/Sort/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -752,14 +747,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
+        <state>
           <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/头条？.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="702">
           <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
@@ -767,14 +762,28 @@
     <entry file="file://$PROJECT_DIR$/笔试题/华为3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/笔试题/华为2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="310">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Practice/Sort/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Data Structures/sort/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

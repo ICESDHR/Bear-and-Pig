@@ -29,9 +29,9 @@ def quick_sort2(lists):
 
 def quik_sort3(L, left, right):
     if left <= right:
-        key = L[left]
         i = left
         j = right
+        key = L[i]
         while i < j:
             while i < j and key <= L[j]:
                 j -= 1

@@ -27,5 +27,5 @@ def Solution(s):
 
 
 if __name__ == "__main__":
-    tempStr = input()
-    print(Solution(tempStr))
+    # tempStr = input()
+    print(Solution("()())("))
