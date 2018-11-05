@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithms and Data Structures/二叉树" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithms and Data Structures/链表" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/笔试题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms and Data Structures/编程用到的语料" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
